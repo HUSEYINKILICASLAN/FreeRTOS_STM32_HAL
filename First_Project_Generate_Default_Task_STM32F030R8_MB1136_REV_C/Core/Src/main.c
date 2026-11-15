@@ -49,7 +49,7 @@ const osThreadAttr_t defaultTask_attributes = {
   .priority = (osPriority_t) osPriorityNormal,
 };
 /* USER CODE BEGIN PV */
-
+//DENEME
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
