@@ -82,8 +82,12 @@ In this example, I used the STM32 NUCLEO-F030R8 (MB1136 C-04) development board 
 
 <img width="1468" height="1065" alt="freeRTOS_led19" src="https://github.com/user-attachments/assets/a6f514b4-51d6-4032-a3f8-b1e7c1208aff" />
 
+<img width="1636" height="489" alt="freeRTOS_12" src="https://github.com/user-attachments/assets/ae37c71b-6ece-46c5-b090-cce8ba296b36" />
+
+<img width="1644" height="887" alt="freeRTOS_13" src="https://github.com/user-attachments/assets/09776982-dec0-49ff-aaa2-07ce54c58049" />
 
 
+Citation: https://xbowtie.com/egitmen/arifmandal
 
 https://github.com/user-attachments/assets/6a2eb155-5457-4543-96da-83202aa6bcb5
 
